@@ -4,7 +4,7 @@ day-03.js
 
 //adding metadata
 @Day: Day 3
-@Date: 2026-07-20
+@Date: 2026-07-21
 @Title: Intro to using boolean, null, undefined, and symbol data types
 @Topics: Boolean ,Null , Window Methods , Date Object
 @Color: #fae716
