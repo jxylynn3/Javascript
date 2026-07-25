@@ -1,7 +1,6 @@
 /*
 day-03.js
 
-
 //adding metadata
 @Day: Day 3
 @Date: 2026-07-21

@@ -1,8 +1,5 @@
 /*
-introduction.js
-will showcase of the basics use of JavaScript, including variables, data types, functions, and control flow statements.
-This file serves as an introductory guide for beginners to understand the fundamental concepts of JavaScript programming. 
-
+learnt about the use of cases of various types of conditional statements
 
  //adding metadata
 @Day: Day 4
