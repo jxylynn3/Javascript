@@ -48,7 +48,7 @@ for (let d= 0; d<numberss.length; d++)
 }
 console.log(newArr3)
 
-// #2 WHILE loop
+// #2 WHILE loopf
 let e = 0
 while (e <= 10 )
 {
@@ -84,7 +84,7 @@ console.log(summ)
 //practice
 for (let g = 1; g <= 7; g++) {
     let row = "";
-    for (let h = 1; h <= g; h++) {
+    for (let h = 1; h <= g; h ++) {
         row += "#";
     }
     console.log(row);
