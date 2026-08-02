@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <img alt="Status" src="https://img.shields.io/badge/status-in%20progress-brightgreen?style=flat-square">
-  <img alt="Days" src="https://img.shields.io/badge/day-10%20of%2030-blueviolet?style=flat-square">
+  <img alt="Days" src="https://img.shields.io/badge/day-11%20of%2030-blueviolet?style=flat-square">
 
  ## 𝚆𝚑𝚢?
 
