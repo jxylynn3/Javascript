@@ -4,8 +4,8 @@ day-12.js
 //adding metadata
 @Day: Day 12
 @Date: 2026-08-02
-@Title: Everything you need to know about Destructuring + Spread
-@Topics: Destructuring and Spread in arrays 
+@Title: Everything you need to know about regular expressions
+@Topics: Patterns,Groups Flags,Quantifiers,Anchors,Character Sets and Ranges
 @Color: #4b034e
 */
 //A regular expression [RegExp] is a programming sub-set of lang. that ise used to find patterns in data
